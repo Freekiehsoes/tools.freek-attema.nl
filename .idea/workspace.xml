@@ -8,37 +8,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="74e103be-6d56-4cc9-8d01-25f8e87a34dd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/init.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/dev" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Routing/Route.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/autoload.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/composer/ClassLoader.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/composer/InstalledVersions.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/composer/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/composer/autoload_classmap.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/composer/autoload_namespaces.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/composer/autoload_real.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/composer/autoload_static.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/composer/installed.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/composer/installed.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/steampixel/simple-php-router/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/steampixel/simple-php-router/.htaccess" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/steampixel/simple-php-router/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/steampixel/simple-php-router/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/steampixel/simple-php-router/composer.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/steampixel/simple-php-router/docker/image-php-7.2/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/steampixel/simple-php-router/docker/image-php-7.4.1/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/steampixel/simple-php-router/include-example.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/steampixel/simple-php-router/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/steampixel/simple-php-router/src/Steampixel/Route.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/steampixel/simple-php-router/web.config" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,7 +76,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1682624420414</updated>
-      <workItem from="1682624421784" duration="20186000" />
+      <workItem from="1682624421784" duration="20649000" />
     </task>
     <servers />
   </component>
