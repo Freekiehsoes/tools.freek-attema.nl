@@ -1,0 +1,21 @@
+{
+  "name": "freekattema/tools",
+  "autoload": {
+    "psr-4": {
+      "Freekattema\\Tools\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Freekiehsoes",
+      "email": "freekattema@live.nl"
+    }
+  ],
+  "require": {
+  },
+  "scripts": {
+    "dev": [
+      "php -S localhost:8000"
+    ]
+  }
+}
